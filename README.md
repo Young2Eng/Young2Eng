@@ -1,6 +1,4 @@
 
-![Vanilla@1x-1 0s-280px-250px](https://github.com/Young2Eng/Young2Eng/assets/162398654/2cccce05-71b2-4ad5-862a-45aa765ff31f)
-![Vanilla@1x-1 0s-280px-250px (1)](https://github.com/Young2Eng/Young2Eng/assets/162398654/83b6e123-9d52-442c-ad1e-447acfc06650)
 
 
 
