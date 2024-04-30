@@ -1,6 +1,6 @@
 <div align=center>
   
-![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=F8E2CF&text=Sarah's%20Github&fontColor=F46B92&fontAlignY=38&desc=ENGLISH%20EDUCATION%20and%20TECH&descAlignY=55&animation=blinking)
+![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=F8E2CF&text=Sarah's%20Github&fontColor=F46B92&fontAlignY=38&desc=ENGLISH%20EDUCATION%20and%20TECH&descAlignY=55&animation=twinkling)
 
 <br>
 <br>
@@ -40,7 +40,7 @@
 
 <div align=center>
 
-<h5> 📫 How to reach me
+<h4> 📫 How to reach me
 <br> 
 <br>
 <p><a href=mailto:hyeryungchoi95@gmail.com>
