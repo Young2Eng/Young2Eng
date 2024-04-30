@@ -40,7 +40,7 @@
 
 <div align=center>
 
-<h4> 📫 How to reach me
+<h3> 📫 How to reach me
 <br> 
 <br>
 <p><a href=mailto:hyeryungchoi95@gmail.com>
