@@ -3,17 +3,27 @@
 ![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=F8E2CF&text=Sarah's%20Github&fontAlign=50&fontSize=70&fontAlignY=42&desc=ENGLISH%20EDUCATION%20and%20TECH&descAlignY=59&textBg=false&animation=blinking)
 
 <br>
-
-<div>
+<br>
+  
 <h3>:books: I’m currently study at 한국외대TESOL대학원
   
 <h3>:bookmark: I’m currently learning about Online English Learning
 
-</div>
+<br>
+<br>
+
+<h4>💗 I Love
+<h4>🍰Sweets 🎥movie 📺animation
 
 <br>
 <br>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<br>
+<br>
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Poe-5D5CDE?style=flat-square&logo=Poe&logoColor=white"/> <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=Moodle&logoColor=white"/> 
+
+
+<br>
 <br>
 <br>
 
@@ -30,9 +40,9 @@
 
 <div align=center>
 
-<h3> 📫 How to reach me
-<br>
+<h5> 📫 How to reach me
 <br> 
+<br>
 <p><a href=mailto:hyeryungchoi95@gmail.com>
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
