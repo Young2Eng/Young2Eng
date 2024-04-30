@@ -1,5 +1,8 @@
+<div align=center>
+  
 ![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Sarah's%20Guithub&fontSize=70&desc=ENGLISH%20%20%20and%20TECHEDUCATION&descAlign=52&descAlignY=54&fontAlign=51&fontAlignY=35&animation=twinkling)
 
+</div>
 
 
 
