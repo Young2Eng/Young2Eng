@@ -1,6 +1,6 @@
 <div align=center>
   
-![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=F8E2CF&text=Sarah's%20Github&fontSize=70&desc=ENGLISH%20EDUCATION%20and%20TECH&descAlign=49&descAlignY=53&fontAlign=50&fontAlignY=35&animation=twinkling&section=header&reversal=false)
+![head](https://capsule-render.vercel.app/api?type=egg&height=300&color=F8E2CF&text=Sarah's%20Github&fontAlign=50&fontSize=70&fontAlignY=42&desc=ENGLISH%20EDUCATION%20and%20TECH&descAlignY=59&textBg=false&animation=blinking)
 
 <br>
 
