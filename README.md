@@ -32,7 +32,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoung2Eng&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Young2Eng})](https://solved.ac/{Young2Eng}) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young2Eng&show_icons=true&theme=rose)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Young2Eng)](https://solved.ac/Young2Eng) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young2Eng&show_icons=true&theme=rose)
 
 </div>
 
