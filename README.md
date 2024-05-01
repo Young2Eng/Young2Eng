@@ -13,14 +13,14 @@
 <br>
 
 <h4>💗 I Love
-<h4>🍰Sweets 🎥movie 📺animation
+<h4>🍰Sweets <img src= "https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white"> 📺animation
 
 <br>
 <br>
 <br>
 <br>
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Poe-5D5CDE?style=flat-square&logo=Poe&logoColor=white"/> <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=Moodle&logoColor=white"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Poe-5D5CDE?style=flat-square&logo=Poe&logoColor=white"/> <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=Moodle&logoColor=white"/> <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white">
 
 
 <br>
@@ -33,7 +33,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=young2eng)](https://solved.ac/young2eng/) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young2Eng&show_icons=true&theme=rose)
-
 </div>
 
 <br>
@@ -49,6 +48,11 @@
 
 </div>
 
+<br>
+
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
+<br>
 <br>
 <br>
   
