@@ -5,15 +5,22 @@
 <br>
 <br>
   
-<h3>:books: I’m currently study at 한국외대TESOL대학원
-  
-<h3>:bookmark: I’m currently learning about Online English Learning
+<h3>
+👩‍🎓 I’m currently studying at 국민대 소프트융합대학원 인공지능학과
 
 <br>
 <br>
 
-<h4>💗 I Love
-<h4>🍰Sweets <img src= "https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white"> 📺animation
+🛑 한국외대TESOL대학원 ELT Materials & Technology (휴학)
+
+📚 I’m currently learning about AI & Online English Learning
+
+<br>
+<br>
+
+💗 I Love
+🍰Sweets <img src= "https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white"> 📺animation 
+</h3>
 
 <br>
 <br>
